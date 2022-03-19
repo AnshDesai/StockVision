@@ -1,5 +1,4 @@
 # StockVision
-# StockVision
 
 Candlesticks show that emotion by visually representing the size of price moves with different colors. Traders use the candlesticks to make trading decisions based on regularly occurring patterns that help forecast the short-term direction of the price.
 
